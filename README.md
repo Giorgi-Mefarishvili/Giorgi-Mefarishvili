@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Giorgi-Mefarishvili/Giorgi-Mefarishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 17-year-old Front-End Developer from Tbilisi, Georgia  
+🎓 Completed the Front-End course at IT Step Academy  
+🌱 Skilled in **HTML, CSS, and JavaScript**  
+🚀 Currently working on personal projects to improve my skills and gain real-world experience  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 My Projects
+- [Portfolio Page](https://github.com/Giorgi-Mefarishvili/Portfolio-Page) – Personal portfolio showcasing my projects  
+- [Clothing Shop Project](https://github.com/Giorgi-Mefarishvili/Cloth-Project) – E-commerce style website built with HTML, CSS & JS  
+- [Backend Project](https://github.com/Giorgi-Mefarishvili/Backend-Project) – Learning basic backend concepts  
+- [Georgian Project](https://github.com/Giorgi-Mefarishvili/Georian-Project) – Cultural project built with HTML & CSS  
+
+---
+
+## 📫 Contact Me
+- Email: your.email@example.com  
+- LinkedIn: [Giorgi Mefarishvili](https://www.linkedin.com/in/giorgi-mefarishvili-1b9263389/)  
+
+---
+
+## ⚡ Fun Fact
+I love building responsive websites and learning new front-end technologies every day! 
+
