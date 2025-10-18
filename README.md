@@ -9,38 +9,66 @@
 🚀 Currently working on personal projects to improve my skills and gain real-world experience  
 
 ---
+🖥 Front-End Projects
 
-## 🔗 My Projects
+My-Portfolio
 
-### 1️⃣ Portfolio Page
-- Personal portfolio website showcasing my skills and projects  
-- Built with **HTML, CSS, and JavaScript**  
-- Fully responsive design for desktop and mobile  
-- [View Project](https://github.com/Giorgi-Mefarishvili/Portfolio-Page)
+Personal portfolio website
 
-### 2️⃣ Cloth Project (Clothing Shop)
-- E-commerce style website with product listings and interactive UI  
-- Built with **HTML, CSS & JavaScript**  
-- Focused on responsive design and smooth interactions  
-- [View Project](https://github.com/Giorgi-Mefarishvili/Cloth-Project)
+Features: responsive layout, interactive project cards, contact form with EmailJS
 
-### 3️⃣ Backend Project
-- Learning basic backend concepts and integration with front-end  
-- Includes simple data handling and interactive forms  
-- Built with **HTML, CSS, JavaScript**  
-- [View Project](https://github.com/Giorgi-Mefarishvili/Backend-Project)
+GitHub link
 
-### 4️⃣ Georgian Project
-- Cultural project showcasing Georgian history and traditions  
-- Built with **HTML & CSS**  
-- Includes responsive layouts and interactive elements  
-- [View Project](https://github.com/Giorgi-Mefarishvili/Georian-Project)
+Cloth-Project
 
-### 5️⃣ Number Project
-- A small game/project involving number guessing or calculations  
-- Built with **HTML, CSS & JavaScript**  
-- Focused on DOM manipulation and interactive logic  
-- [View Project](https://github.com/Giorgi-Mefarishvili/NumberProject)
+Online clothing shop layout (frontend only)
+
+Features: product listing, hover effects, responsive grid
+
+GitHub link
+
+Georian-Project
+
+Educational / cultural website
+
+Features: image sliders, semantic HTML structure, responsive design
+
+GitHub link
+
+Mini-Weather-App
+
+Simple weather app fetching data from an API
+
+Features: dynamic content display, responsive UI
+
+GitHub link
+
+🗄 Back-End Projects
+
+Backand Project
+
+C# / .NET backend solution with multiple small projects
+
+Projects: Bankomati, BookSearch, Calculator, Game, Ricxvis Gamocnoba, Student
+
+Features: backend logic, console or Visual Studio execution, tested in CMD
+
+GitHub link
+
+Number Project
+
+C# / .NET project focused on number operations
+
+Features: various number calculations, backend logic implementation
+
+GitHub link 
+
+⚙️ Technologies Used
+
+Front-End: HTML5, CSS3, JavaScript, EmailJS, responsive layouts, interactive UI
+
+Back-End: C#, .NET Framework / .NET Core, Visual Studio, console & solution management
+
 
 ---
 
