@@ -9,65 +9,39 @@
 🚀 Currently working on personal projects to improve my skills and gain real-world experience  
 
 ---
-🖥 Front-End Projects
+My projects
+Front-End Projects
 
 My-Portfolio
+Personal portfolio website with responsive layout, interactive project cards, and contact form using EmailJS.
 
-Personal portfolio website
-
-Features: responsive layout, interactive project cards, contact form with EmailJS
-
-GitHub link
 
 Cloth-Project
-
-Online clothing shop layout (frontend only)
-
-Features: product listing, hover effects, responsive grid
-
-GitHub link
+Online clothing shop layout (frontend only) with product listing, hover effects, and responsive grid.
 
 Georian-Project
-
-Educational / cultural website
-
-Features: image sliders, semantic HTML structure, responsive design
-
-GitHub link
+Educational / cultural website with image sliders, semantic HTML structure, and responsive design.
 
 Mini-Weather-App
+Simple weather app fetching data from an API with dynamic content and responsive UI.
 
-Simple weather app fetching data from an API
 
-Features: dynamic content display, responsive UI
-
-GitHub link
-
-🗄 Back-End Projects
+Back-End Projects
 
 Backand Project
+C# / .NET backend solution with multiple small projects: Bankomati, BookSearch, Calculator, Game, Ricxvis Gamocnoba, Student.
+Tested in CMD and Visual Studio.
 
-C# / .NET backend solution with multiple small projects
-
-Projects: Bankomati, BookSearch, Calculator, Game, Ricxvis Gamocnoba, Student
-
-Features: backend logic, console or Visual Studio execution, tested in CMD
-
-GitHub link
 
 Number Project
+C# / .NET backend project focused on number operations and calculations.
 
-C# / .NET project focused on number operations
-
-Features: various number calculations, backend logic implementation
-
-GitHub link 
-
-⚙️ Technologies Used
+Technologies Used
 
 Front-End: HTML5, CSS3, JavaScript, EmailJS, responsive layouts, interactive UI
 
 Back-End: C#, .NET Framework / .NET Core, Visual Studio, console & solution management
+
 
 
 ---
