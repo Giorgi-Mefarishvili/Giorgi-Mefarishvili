@@ -10,11 +10,6 @@
 
 ---
 My projects
-Front-End Projects
-
-My-Portfolio
-Personal portfolio website with responsive layout, interactive project cards, and contact form using EmailJS.
-
 
 Cloth-Project
 Online clothing shop layout (frontend only) with product listing, hover effects, and responsive grid.
